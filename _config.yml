@@ -1,11 +1,11 @@
 # Base configs
-baseurl: "https://dariocast.github.io/photography"
+baseurl: "https://dariocast.github.io/artwork"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Artworks by Francesca Castellano"
+title: "Artworks by Francesca"
 subtitle: "See the world through my eyes!"
 author: "Francesca Castellano"
 header:
