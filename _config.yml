@@ -5,14 +5,14 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Artworks by Francesca"
+title: "Artworks by Dario"
 subtitle: "See the world through my eyes!"
-author: "Francesca Castellano"
+author: "Dario Castellano"
 header:
  title: "Artworks"
- subtitle: "by Francesca"
+ subtitle: "by Dario"
 footer:
- name: "Hey there, my name is Francesca"
+ name: "Hey there, my name is Dario"
  bio: ""
 web_design: "AJ"
 #social_urls:
